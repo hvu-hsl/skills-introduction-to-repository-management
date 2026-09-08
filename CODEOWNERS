@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @hvu-hsl
+/src/backend/database.py      @hvu-hsl
+/src/backend/routers/auth.py  @hvu-hsl
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @hvu-hsl
